@@ -4,7 +4,7 @@ library(tidyverse)
 library(ggplot2)
 
 setwd("G:/My Drive/Universidad/2025-1/Haciendo-Econom-a")
-#How to-Hacer la tabla
+
 df <- tribble(
   ~Munic_Dept, ~usaInternet1, ~usaInternet2, ~usaInternet3, ~usaInternet4, ~usaInternet5, ~usaInternet6, ~usaInternet7, ~usaInternet8, ~usaInternet9, ~usaInternet10, ~usaInternet11,
   "BEL",     35.29,         70,     84.21,    71.43,    80,    75,     0,    45.45, 62.5,  75,   100,
